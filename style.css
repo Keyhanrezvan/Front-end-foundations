@@ -168,6 +168,7 @@ footer p {
   #About div {
     display: flex;
     gap:15px;
+    align-items: center
   }
 
   #About div img {
